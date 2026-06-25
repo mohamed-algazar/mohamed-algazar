@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>AI / Data Science Engineer</b> &nbsp;|&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197536.png](https://www.vecteezy.com/free-png/egypt-flag" width="13"/> Cairo, Egypt
+  Cairo, Egypt
 </p>
 
 <p align="center">
