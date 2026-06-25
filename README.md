@@ -76,9 +76,9 @@
 
 ### 📬 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN
-* GitHub: YOUR_GITHUB
-* Email: YOUR_EMAIL
+* LinkedIn: www.linkedin.com/in/mohamed-ali-229254408
+* GitHub: https://github.com/mohamed-algazar
+* Email: eng.mohamedelgazar1@gmail.com
 
 ---
 
